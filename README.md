@@ -17,7 +17,7 @@ Hello, my name is Manoel Lucas Lopes Reis and I'm 16. Today I live in Brazil and
 <code><img height="30" src="https://user-images.githubusercontent.com/62820717/107460833-98735280-6b37-11eb-97b0-b3514fdb9639.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/62820717/107460941-cd7fa500-6b37-11eb-8606-6fcd22ef161b.png"></code>
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/manoel-reis/" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/manoel-reis/">Linkedin</a>
 - <a href="mailto:manoel.reisiema@gmail.com">E-mail</a>
 - <a href="https://dev.to/httplucasreis">Dev.to</a>
 </div>
