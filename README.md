@@ -1,3 +1,5 @@
+   ![myLogo](https://user-images.githubusercontent.com/62820717/107864559-31f27b00-6e3c-11eb-88a0-345efca2b684.png)
+
  # <a href="https://www.linkedin.com/in/manoel-reis/">Manoel Lucas</a>
  
 ## About Me
