@@ -3,7 +3,7 @@
  # <a href="https://www.linkedin.com/in/manoel-reis/">Manoel Lucas</a>
  
 ## About Me
-Hello, my name is Manoel Lucas Lopes Reis and I'm 16. Today I live in Brazil and currently studying information technology at the Institute of Education, Science, and Technology of Maranhão. I like Rap, Watch animes, and read Mangas. I'm trying to improve my programming skills, personal and professional life.
+Hello, my name is Manoel Lucas Lopes Reis and I'm 19. Today I live in Brazil and currently studying Information system at the Faculdade Santa Terezinha (CEST). I also a producer of rap.
 
 ## Technologies
 - Front - End with HTML, CSS, JS, Handlebars, ReactJS
